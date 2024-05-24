@@ -2,6 +2,12 @@
 
 Collections of composes
 
+- Dragonfly (redis/memcache)
+- Redis
+- Kafka
+- Postgres
+- RabbitMQ
+
 -----
 
 ## Versioning and license
